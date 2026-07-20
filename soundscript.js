@@ -2,8 +2,8 @@
 
 
 
-const image = document.getElementById("shrek-image");
-const sound = new Audio("./material/shrek_sound.mp3");
+const image = document.getElementById("shrekpng.png");
+const sound = new Audio("./sound.mp3");
 
 image.addEventListener("click", () => {
     sound.currentTime = 0;

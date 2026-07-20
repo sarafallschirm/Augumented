@@ -1,4 +1,15 @@
-# shrek{
+body{
+    background-color: rgb(221, 156, 112);
+}
 
-    width:50vw; 
+p{
+    font-size: 10vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+
+
+}
+#V60 transparent.png{
+    size: 50vw;
 }
