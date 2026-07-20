@@ -2,7 +2,7 @@ body{
     background-color: rgb(221, 156, 112);
 }
 
-p{
+h1{
     font-size: 10vw;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: whitesmoke;
@@ -10,6 +10,6 @@ p{
 
 
 }
-#V60 transparent.png{
+#V60{
     size: 50vw;
 }
